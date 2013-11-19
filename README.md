@@ -216,10 +216,10 @@ Saving to Redis. Right now this is tightly coupled to our own use case, so it cu
 
 We provide a few helpful utility libraries wrapped up in the `Roach.Utils` namespace. At the moment they are:
 
+* `Roach.Utils` -> Various little helpful utilities
 * `Roach.Utils._` -> [underscore](http://underscorejs.org)
 * `Roach.Utils._.str` -> [underscore-string](http://epeli.github.io/underscore.string/)
 * `Roach.Utils.date` -> [moment](http://momentjs.com)
-* `Roach.Utils.request` -> Helpful utilities for making http requests
 
 ## License
 
